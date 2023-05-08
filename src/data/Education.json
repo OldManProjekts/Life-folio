@@ -1,26 +1,18 @@
 [
   {
-    "name": "Institute name",
-    "location": "City, State",
-    "course": "Course Name",
-    "span": "year - year",
-    "specialization": "major name",
-    "score": "9 CGPA"
+    "name": "University of Maryland Global Campus",
+    "location": "Adelphi, MD",
+    "course": "Master of Science",
+    "span": "2022 - ",
+    "specialization": "Cloud Computing",
+    "score": "4.0 GPA"
   },
   {
-    "name": "Institute name",
-    "location": "City, State",
-    "course": "Course Name",
-    "span": "year-year",
-    "specialization": "major name",
-    "score": "90 %"
-  },
-  {
-    "name": "Institute name",
-    "location": "City, State",
-    "course": "Course Name",
-    "span": "year-year",
-    "specialization": "",
-    "score": "90 %"
+    "name": "University of South Florida",
+    "location": "Tampa, FL",
+    "course": "Bachelor of Science",
+    "span": "1993-1996",
+    "specialization": "Education",
+    "score": "3.46"
   }
 ]

@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import { Box, styled } from "@mui/material";
 import { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
@@ -102,7 +103,7 @@ export const NavigationList = () => {
           className={`arrow before ${start === 0 && "disabled"}`}
           onClick={() => setStart((val) => val - 1)}
         >
-          <img src={Arrow} />
+          <img src={Arrow} alt={Arrow}/>
         </Box>
       )}
       {filteredSections.slice(start, start + limit).map((sec) => (
@@ -126,7 +127,7 @@ export const NavigationList = () => {
           }`}
           onClick={() => setStart((val) => val + 1)}
         >
-          <img src={Arrow} />
+          <img src={Arrow} alt={Arrow} />
         </Box>
       )}
     </NavigationWrapper>

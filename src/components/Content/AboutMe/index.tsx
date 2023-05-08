@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import { styled, Box } from "@mui/material";
 import MyImage from "../../../assets/pic.png";
 import Resume from "../../../assets/resume.pdf";
@@ -41,7 +42,7 @@ export const AboutMe = () => {
     <SectionWrapper>
       <TitleWrapper>About Me</TitleWrapper>
       <AboutMeContainer>
-        <img src={MyImage} />
+        <img src={MyImage} alt={MyImage} />
         <DetailsWrapper>
           <div>{aboutMeInfo.aboutMe}</div>
           <div className="actions">

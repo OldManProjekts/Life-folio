@@ -1,11 +1,11 @@
 [
   {
-    "name": "Certificate Name 1",
-    "org": "Issued Org name",
-    "issued": "month year",
-    "expiry": "",
-    "credentialId": "UC-xxxxxxxxx-xxxxx-xxxxxx-xxx-xxxxxxxxxxxxxx",
-    "credentialUrl": "https://support.udemy.com/hc/en-us/articles/229603868-How-to-Download-Your-Certificate-of-Completion-on-a-Browser-",
+    "name": "Project Management Professional - PMP",
+    "org": "Project Managment Institue - PMI",
+    "issued": "May 2017",
+    "expiry": "May 2026",
+    "credentialId": "2039358",
+    "credentialUrl": "https://www.pmi.org/certifications/certification-resources/registry",
     "url":"https://udemy-certificate.s3.amazonaws.com/image/<credentialId>.jpg"
   },
   {

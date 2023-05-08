@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import { Box, styled } from "@mui/material";
 import SoftSkill from "../../../assets/softSkills.png";
 import HardSkill from "../../../assets/hardSkills.png";
@@ -57,7 +58,7 @@ export const SkillList = ({ type, skills }: Prop) => {
         type === "softSkills" ? "Soft" : "Hard"
       } Skills`}</Box>
       <Box className="skillIcon">
-        <img src={type === "softSkills" ? SoftSkill : HardSkill} />
+        <img src={type === "softSkills" ? SoftSkill : HardSkill} alt={type === "softSkills" ? SoftSkill : HardSkill} />
       </Box>
       <Box className="skillsList">
         {skills.map((skill, ind) => (

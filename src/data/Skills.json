@@ -1,20 +1,22 @@
 {
   "softSkills": [
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name"
+    "Leadership",
+    "Self-Starter",
+    "Lifelong Learner",
+    "Team Work",
+    "Interpersonal Communication",
+    "Ability to Influence",
+    "Organization",
+    "Discipline"
   ],
   "hardSkills": [
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name"
+    "Program/Project Management",
+    "Network Infrastructure",
+    "Data Center Management",
+    "VoIP & PBX Design",
+    "Disaster Recovery & Coop",
+    "ICDS Installation",
+    "Cloud Services & Architecture",
+    "Lean Manufacturing & Design"
   ]
 }

@@ -1,41 +1,164 @@
 [
   {
-    "span": "Year Month -  current",
-    "company": "Google",
-    "linkedIn": "https://www.linkedin.com/company/google/",
-    "twitter": "https://twitter.com/googleindia",
-    "location": "City, State",
+    "span": "2021 August - Current",
+    "company": "GDIT",
+    "location": "Fairfax, VA",
+    "linkedIn": "https://www.linkedin.com/company/gdit/",
+    "twitter": "https://twitter.com/GDIT",
     "progress": [
       {
-        "role": "Role Name",
-        "span": "Year Month - Current",
+        "role": "SITE LEAD & SR. PROJECT/TASK MANAGER - EMITS P3 Poznan, Poland",
+        "span": "August 2021 - Current",
         "descriptions": [
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
-          "In commodi consequatur quidem? Nemo officiis inventore praesentium hic saepe ut delectus"
-        ]
-      },
-      {
-        "role": "Role Name",
-        "span": "Year Month - Year Month",
-        "descriptions": [
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. In commodi consequatur quidem? Nemo officiis inventore praesentium hic saepe ut delectus"
+          "Responsible for developing and managing complex projects to include developing and managing customer expectations, deliverables, schedules, time, and scope.",
+          "Managed and is responsible for successful completion of all tasks in assigned project.",
+          "Maintained staff by recruiting, selecting, orienting, and training new team members; maintaining safe and secure work environment; developing personal growth opportunities.",
+          "Contributed to team effort by assisting team members with accomplishing milestone deliverables.",
+          "Scheduled and facilitated meetings between project stakeholders to discuss deliverables, schedules, and conflicts.",
+          "Maintained open communication by presenting regular updates on project status to customers.",
+          "Tracked project and team member performance closely to quickly intervene in mistakes or delays.",
+          "Built successful project plans covering objectives, resources and staffing to meet schedules.",
+          "Maintained energy and enthusiasm in fast-paced environment.",
+          "Prepared variety of different written communications, reports and documents to ensure smooth operations.",
+          "Offered friendly and efficient service to customers, handled challenging situations with ease."
+
         ]
       }
     ]
   },
   {
-    "span": "Year July - Year Month",
-    "company": "Google",
-    "location": "City, State",
-    "linkedIn": "https://www.linkedin.com/company/google/",
-    "twitter": "https://twitter.com/googleindia",
+    "span": "2019 August - 2021 August",
+    "company": "BAH",
+    "location": "McLean, VA",
+    "linkedIn": "https://www.linkedin.com/company/booz-allen-hamilton/",
+    "twitter": "https://twitter.com/BoozAllen",
     "progress": [
       {
-        "role": "Role Name",
+        "role": "SR. VOICE ARCHITECT – LEAD ASSOCIATE - DISA SE53 EVoIP/ECVoIP Fort Meade, MD",
+        "span": "2019 August - 2021 August",
+        "descriptions": [
+          "Designed and engineered Voice and Periphery Systems within Global Defense Information Systems Agency (DISA).",
+          "Mentored and guided 10 employees to foster proper completion of assigned duties.",
+          "Lead Architect/Engineer on Voice Cloud Access Point initiative.",
+          "Participated in continuous improvement by generating suggestions, engaging in problem-solving activities to support teamwork.",
+          "Prepared variety of different written communications, reports, and documents to ensure smooth operations.",
+          "Created plans and communicated deadlines to ensure projects were completed on time.",
+          "Used critical thinking to break down problems, evaluate solutions and make decisions"
+        ]
+      }
+    ]
+  },
+  {
+    "span": "2018 May -  2019 August",
+    "company": "DVS",
+    "linkedIn": "https://www.linkedin.com/company/directviz-solutions-llc/",
+    "twitter": "https://twitter.com/DVS",
+    "location": "Vienna, VA",
+    "progress": [
+      {
+        "role": "PROGRAM MANAGER / TECHNICAL OPERATIONS MANAGER - DISA ID6 TS&M Fort Meade, MD",
+        "span": "Year Month - Current",
+        "descriptions": [
+          "Management responsibility for successful completion of all tasks in assigned program area including technical work, financial and business development activities.",
+          "Management and career development for 45 fulltime and Sub-contracted employees on multiple cross culture teams including Security, Networks, Systems, Lab, Sustainment, and Service Desk.",
+          "Responsible for profitability and revenue growth of assigned program.",
+          "Performed program financial management services, including financial analysis, budget and cost quote preparation, cost management, reconciliation, and profit enhancement."
+        ]
+      },
+      {
+        "role": "TRANSITIONAL PROGRAM MANAGER / STRATEGIC PLANNER - DISA PEST Fort Meade, MD",
         "span": "Year Month - Year Month",
         "descriptions": [
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. In commodi consequatur quidem? Nemo officiis inventore praesentium hic saepe ut delectus",
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. In commodi consequatur quidem? Nemo officiis inventore praesentium hic saepe ut delectus"
+          "Interviewed and staffed team with 40 architects, engineers, cybersecurity, physical security, and administrative staff.",
+          "Management responsibility for successful completion of all tasks in assigned program during transition of newly awarded contract including staffing, technical work, financial and business development activities.",
+          "Management and career development for 45 fulltime and Sub-contracted employees on multiple cross culture teams."
+        ]
+      }
+    ]
+  },
+  {
+    "span": "2014 April -  2018 April",
+    "company": "GDIT",
+    "linkedIn": "https://www.linkedin.com/company/gdit/",
+    "twitter": "https://twitter.com/GDIT",
+    "location": "City, State",
+    "progress": [
+      {
+        "role": "SITE MANAGER / PROGRAM MANAGER - USACISA-P Seoul, South Korea",
+        "span": "2017 February - Current2018 April",
+        "descriptions": [
+          "Management responsibility for successful completion of all tasks in assigned program area including technical work, financial and business development activities.",
+          "Management and career development for 50 fulltime employees and 25 Sub-contracted employees consisting of US and Korean National staff.",
+          "Management of cross cultural teams consisting of Networks, Security, Systems, Web Development, Service Desk, Training, Procurement, Audio Visual, and Administrative.",
+          "Managed staff in 5 Permanent sites and 7 Remote sites.",
+          "Responsible for profitability and revenue growth of assigned program.",
+          "Performed program financial management services, including financial analysis, budget and cost quote preparation, cost management, reconciliation, and profit enhancement.",
+          "Supervised contractor work processes and adherence to project schedules."
+        ]
+      },
+      {
+        "role": "PRINCIPAL NETWORK ENGINEER & TEAM LEAD - NSHQ BICES Mons, Belgium",
+        "span": "2014 April - 2017 February",
+        "descriptions": [
+          "Supervised a team of 7 highly skilled Network Engineers responsible for Design, Installation, and O&M of 3 separate networks including all deployable operations.",
+          "COMSEC Management.",
+          "Lead design and implementation of all Voice Systems.",
+          "Supported and maintained Cisco UCM 8.6 cluster consisting of 3 virtual servers and 350 endpoints including Jabber.",
+          "Designed and implemented Cisco UCM 10.0 cluster for Test Environment.",
+          "Designed and implemented Cisco UCM 10.5 cluster including Unity, UCCX, IMP with Jabber."
+        ]
+      }
+    ]
+  },
+  {
+    "span": "2006 August - 2014 April",
+    "company": "Moffitt",
+    "location": "Tampa, FL",
+    "linkedIn": "https://www.linkedin.com/company/moffittcancercenter/",
+    "twitter": "https://twitter.com/MoffittNews",
+    "progress": [
+      {
+        "role": "Sr Technology Architect",
+        "span": "2006 August - 2014 April",
+        "descriptions": [
+          "Guided and influenced existing partners on recommended upgrades and enhancements to integrated solutions.",
+          "Worked with customers or prospective customers to develop integrated solutions and lead detailed architectural dialogues to facilitate delivery of comprehensive solution.",
+          "Lead design and implementation of all Voice Systems within multi campus environment.",
+          "Support and maintenance of Cisco Call Manager 4.0 cluster consisting of 6 Windows NT servers and 1500 endpoints.",
+          "Design, implementation, and support of 5 server Contact Center.",
+          " Microsoft OCS integration using SIP trunks to Nortel CSE1000 and Cisco Call Manager Cluster and support for 2000+ user base.",
+          " Design and Installation of new voice system for 400 user complex built in 2009.",
+          "Installation and support of hospital wide Vocera Communications system consisting of 2 Windows 2008 servers and SIP integration with Nortel CSE 1000.",
+          "Installed and administered of 2 Windows 2008 servers running Emergin 10.",
+          "Designed and installed of 500 user Spectralink wireless system including both 900Mhz and WAP endpoints.",
+          "Designed and Installed new voice system for 500 user complex built in 2011.",
+          "Design, installation and support of Cisco Call Manger 8.6 cluster on UCS environment integrated with Nortel CSE 1000 using both SIP trunks and PRI trunks.",
+          "Design, installation, and support of business wide RFID staff, patient, and equipment real time tracking system.",
+          "Researched and developed all future voice directions for research center."
+        ]
+      }
+    ]
+  },
+  {
+    "span": "1997 October - 2006 August",
+    "company": "Mosaic",
+    "location": "Riverview, FL",
+    "linkedIn": "https://www.linkedin.com/company/mosaiccompany/",
+    "twitter": "https://twitter.com/MosaicCompany",
+    "progress": [
+      {
+        "role": "Global Voice Engineer",
+        "span": "1997 October - 2006 August",
+        "descriptions": [
+          "Lead design and implementation of all Voice Systems.",
+          "Assisted in design and implementation of all Data Systems.",
+          "Researched and developed cellular solution for global environment.",
+          "Manage and sustain all LAN line voice communications and voice cabling infrastructure.",
+          "Managed cellular communications.",
+          "Maintained key telecom vendor relationships.",
+          "Project management for all telecom related issues.",
+          "Managed and maintained $1.4 million budget.",
+          "Supervision of all contracted labor for telecoms and infrastructure related issues."
         ]
       }
     ]
