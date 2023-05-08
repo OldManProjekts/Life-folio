@@ -97,9 +97,9 @@ export const Footer = () => {
       </Box>
       <Box className="divider" />
       <Box className="creator">
-        2022 - Template created by{" "}
-        <a rel="noreferrer" href="https://github.com/harini24" target="_blank">
-          Harini Sivakumar
+        2023 - OMProjekts modified by{" "}
+        <a rel="noreferrer" href="https://github.com/OldManProjekts/Life-folio" target="_blank">
+          Jason D
         </a>
       </Box>
       <Box className="actions">
